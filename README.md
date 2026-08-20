@@ -1,10 +1,10 @@
 # AI-ASSISTED-INVENTORY-DECISION-SUPPORT-DASHBOARD-FOR-SMALL-BUSINESSES
 
-⚫ABSTRACT 
+⚫ABSTRACT: 
 
 Small businesses often face inventory-related challenges such as stock shortages, overstocking and inaccurate demand estimation. This project develops an AI-assisted dashboard that analyses inventory data and provides decision support through stock predictions, reorder recommendations, and inventory insights. The system helps business owners make informed inventory decisions, reduce costs, and improve operational efficiency.
 
-⚫PROBLEM STATEMENT
+⚫PROBLEM STATEMENT:
 
 Small businesses typically manage inventory manually or using basic software, leading to:
 
@@ -18,7 +18,7 @@ Small businesses typically manage inventory manually or using basic software, le
 
 •Delayed decision-making
 
-⚫PROPOSED SYSTEM
+⚫PROPOSED SYSTEM:
  
 Modules:
 
@@ -62,6 +62,18 @@ Module 5: Decision Support Module
 •Dashboard Development
 
 •Testing and Validation
+
+⚫TECHNOLOGIES USED:
+ 
+•Frontend:HTML,CSS,JavaScript,Bootstrap
+
+•Backend:Python, Flask
+
+•Database:SQLite, MySQL
+
+•AI & Machine Learning:Pandas,NumPy,Scikit-Learn
+
+•Data Visualization:Matplotlib,chart.js
 
 
 
