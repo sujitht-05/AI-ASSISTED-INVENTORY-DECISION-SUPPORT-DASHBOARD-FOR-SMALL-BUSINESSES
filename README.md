@@ -18,3 +18,30 @@ Small businesses typically manage inventory manually or using basic software, le
 
 •Delayed decision-making
 
+⚫PROPOSED SYSTEM
+ 
+Modules:
+
+Module 1: Inventory Data Management
+•Add products
+•Update stock levels
+•Track inventory transactions
+
+Module 2: AI Demand Prediction
+•Analyse historical sales data
+•Predict future demand
+
+Module 3: Reorder Recommendation Engine
+•Suggest reorder quantity
+•Alert low-stock items
+
+Module 4: Dashboard Visualization
+•Inventory status charts
+•Sales trends
+•Stock movement reports
+
+Module 5: Decision Support Module
+•AI-generated recommendations
+•Inventory optimization suggestions
+
+
