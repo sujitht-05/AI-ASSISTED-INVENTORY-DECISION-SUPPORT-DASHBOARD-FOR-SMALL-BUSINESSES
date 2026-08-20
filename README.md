@@ -49,4 +49,14 @@ Module 5: Decision Support Module
 •AI-generated recommendations
 •Inventory optimization suggestions
 
+⚫METHODOLOGY
+ 
+•Data Collection
+•Data Pre-processing
+•Inventory Analysis
+•AI Prediction Model Training
+•Dashboard Development
+•Testing and Validation
+
+
 
