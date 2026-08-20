@@ -7,9 +7,14 @@ Small businesses often face inventory-related challenges such as stock shortages
 ⚫PROBLEM STATEMENT
 
 Small businesses typically manage inventory manually or using basic software, leading to:
+
 •Stock-outs
+
 •Overstocking
+
 •Increased storage costs
+
 •Poor demand forecasting
+
 •Delayed decision-making
 
