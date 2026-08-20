@@ -1,6 +1,5 @@
 /**
  * AI-Assisted Inventory Decision Support Dashboard
- * Analytics, Predictive Forecasting & Decision Engine
  */
 
 class AIEngine {
