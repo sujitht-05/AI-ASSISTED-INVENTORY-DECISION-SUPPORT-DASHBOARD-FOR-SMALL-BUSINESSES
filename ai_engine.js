@@ -5,9 +5,6 @@
 class AIEngine {
   constructor() {}
 
-  /**
-   * Enriches an inventory item with calculated AI metrics
-   */
   enrichItem(item) {
     const dailySales = Math.max(0.01, item.monthlySales / 30.0);
     const daysOfSupply = item.stock / dailySales;
