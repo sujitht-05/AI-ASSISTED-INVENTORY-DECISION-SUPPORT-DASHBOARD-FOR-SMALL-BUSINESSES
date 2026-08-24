@@ -49,6 +49,20 @@ Module 5: Decision Support Module
 •AI-generated recommendations
 •Inventory optimization suggestions
 
+⚫SYSTEM ARCHITECTURE:
+
+Inventory Data
+       ↓
+Data Processing
+       ↓
+AI Prediction Model
+       ↓
+Decision Support Engine
+       ↓
+Interactive Dashboard
+       ↓
+Business Owner
+
 ⚫METHODOLOGY:
  
 •Data Collection
