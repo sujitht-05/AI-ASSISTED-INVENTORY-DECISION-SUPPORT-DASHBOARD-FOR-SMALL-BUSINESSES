@@ -8,15 +8,15 @@ Small businesses often face inventory-related challenges such as stock shortages
 
 Small businesses typically manage inventory manually or using basic software, leading to:
 
-•Stock-outs
+⭐Stock-outs
 
-•Overstocking
+⭐Overstocking
 
-•Increased storage costs
+⭐Increased storage costs
 
-•Poor demand forecasting
+⭐Poor demand forecasting
 
-•Delayed decision-making
+⭐Delayed decision-making
 
 ⚫PROPOSED SYSTEM:
  
@@ -24,37 +24,37 @@ Modules:
 
 Module 1: Inventory Data Management
 
-•Add products
+⭐Add products
 
-•Update stock levels
+⭐Update stock levels
 
-•Track inventory transactions
+⭐Track inventory transactions
 
 Module 2: AI Demand Prediction
 
-•Analyse historical sales data
+⭐Analyse historical sales data
 
-•Predict future demand
+⭐Predict future demand
 
 Module 3: Reorder Recommendation Engine
 
-•Suggest reorder quantity
+⭐Suggest reorder quantity
 
-•Alert low-stock items
+⭐Alert low-stock items
 
 Module 4: Dashboard Visualization
 
-•Inventory status charts
+⭐Inventory status charts
 
-•Sales trends
+⭐Sales trends
 
-•Stock movement reports
+⭐Stock movement reports
 
 Module 5: Decision Support Module
 
-•AI-generated recommendations
+⭐AI-generated recommendations
 
-•Inventory optimization suggestions
+⭐Inventory optimization suggestions
 
 ⚫SYSTEM ARCHITECTURE:
 
@@ -77,29 +77,29 @@ Business Owner
 
 ⚫METHODOLOGY:
  
-•Data Collection
+⭐Data Collection
 
-•Data Pre-processing
+⭐Data Pre-processing
 
-•Inventory Analysis
+⭐Inventory Analysis
 
-•AI Prediction Model Training
+⭐AI Prediction Model Training
 
-•Dashboard Development
+⭐Dashboard Development
 
-•Testing and Validation
+⭐Testing and Validation
 
 ⚫TECHNOLOGIES USED:
  
-•Frontend:HTML,CSS,JavaScript,Bootstrap
+⭐Frontend:HTML,CSS,JavaScript,Bootstrap
 
-•Backend:Python, Flask
+⭐Backend:Python, Flask
 
-•Database:SQLite, MySQL
+⭐Database:SQLite, MySQL
 
-•AI & Machine Learning:Pandas,NumPy,Scikit-Learn
+⭐AI & Machine Learning:Pandas,NumPy,Scikit-Learn
 
-•Data Visualization:Matplotlib,chart.js
+⭐Data Visualization:Matplotlib,chart.js
 
 
 
