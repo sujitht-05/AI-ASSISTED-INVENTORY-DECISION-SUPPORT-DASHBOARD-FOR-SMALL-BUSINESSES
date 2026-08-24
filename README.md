@@ -52,14 +52,19 @@ Module 5: Decision Support Module
 ⚫SYSTEM ARCHITECTURE:
 
 Inventory Data
+
        ↓
 Data Processing
+
        ↓
 AI Prediction Model
+
        ↓
 Decision Support Engine
+
        ↓
 Interactive Dashboard
+
        ↓
 Business Owner
 
