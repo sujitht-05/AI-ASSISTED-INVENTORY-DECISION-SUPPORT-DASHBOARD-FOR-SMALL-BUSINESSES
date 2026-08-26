@@ -22,7 +22,7 @@ Small businesses typically manage inventory manually or using basic software, le
  
 Modules:
 
-Module 1: Inventory Data Management
+•Module 1: Inventory Data Management
 
 ⭐Add products
 
@@ -30,19 +30,19 @@ Module 1: Inventory Data Management
 
 ⭐Track inventory transactions
 
-Module 2: AI Demand Prediction
+•Module 2: AI Demand Prediction
 
 ⭐Analyse historical sales data
 
 ⭐Predict future demand
 
-Module 3: Reorder Recommendation Engine
+•Module 3: Reorder Recommendation Engine
 
 ⭐Suggest reorder quantity
 
 ⭐Alert low-stock items
 
-Module 4: Dashboard Visualization
+•Module 4: Dashboard Visualization
 
 ⭐Inventory status charts
 
@@ -50,7 +50,7 @@ Module 4: Dashboard Visualization
 
 ⭐Stock movement reports
 
-Module 5: Decision Support Module
+•Module 5: Decision Support Module
 
 ⭐AI-generated recommendations
 
