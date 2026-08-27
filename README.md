@@ -89,6 +89,18 @@ Business Owner
 
 ⭐Testing and Validation
 
+⚫Project Benefits:
+
+The system can help small businesses:
+
+⭐Reduce stock-outs.
+⭐Avoid unnecessary overstocking.
+⭐Reduce inventory costs.
+⭐Improve demand planning.
+⭐Save time.
+⭐Make informed business decisions.
+⭐Improve operational efficiency.
+
 ⚫TECHNOLOGIES USED:
  
 ⭐Frontend:HTML,CSS,JavaScript,Bootstrap
