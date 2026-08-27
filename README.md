@@ -4,7 +4,7 @@
 
 Small businesses often face inventory-related challenges such as stock shortages, overstocking and inaccurate demand estimation. This project develops an AI-assisted dashboard that analyses inventory data and provides decision support through stock predictions, reorder recommendations, and inventory insights. The system helps business owners make informed inventory decisions, reduce costs, and improve operational efficiency.
 
-⚫Objectives:
+⚫ OBJECTIVES:
 
 ⭐Monitor inventory levels efficiently
 
@@ -104,7 +104,7 @@ Business Owner
 
 ⭐Testing and Validation
 
-⚫Project Benefits:
+⚫PROJECT BENEFITS:
 
 The system can help small businesses:
 
@@ -122,7 +122,7 @@ The system can help small businesses:
 
 ⭐Improve operational efficiency
 
-⚫Target Users:
+⚫TARGET USERS:
 
 ⭐Small business owners
 
@@ -136,7 +136,7 @@ The system can help small businesses:
 
 ⭐Entrepreneurs
 
-⚫Installation & Setup:
+⚫INSTALLATION& SETUP:
 
 Step 1: Clone the Repository
 git clone <your-github-repository-link>
