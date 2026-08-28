@@ -154,6 +154,29 @@ Step 5: Open in Browser
 Open:
 http://127.0.0.1:5000/
 
+⚫PROJECT STRUCTURE:
+
+AI-Inventory-Dashboard/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── templates/
+│   └── index.html
+│
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+│
+├── data/
+│   └── inventory.csv
+│
+└── models/
+    └── model.pkl
+
 ⚫TECHNOLOGIES USED:
  
 ⭐Frontend:HTML,CSS,JavaScript,Bootstrap
@@ -165,6 +188,8 @@ http://127.0.0.1:5000/
 ⭐AI & Machine Learning:Pandas,NumPy,Scikit-Learn
 
 ⭐Data Visualization:Matplotlib,chart.js
+
+If you find this project useful, consider giving the repository a ⭐ Star
 
 
 
