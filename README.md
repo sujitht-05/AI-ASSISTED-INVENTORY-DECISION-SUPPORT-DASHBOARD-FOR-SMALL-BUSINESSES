@@ -154,28 +154,25 @@ Step 5: Open in Browser
 Open:
 http://127.0.0.1:5000/
 
-⚫PROJECT STRUCTURE:
+⚫EXPECTED OUTPUT:
 
-AI-Inventory-Dashboard/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── templates/
-│   └── index.html
-│
-├── static/
-│   ├── css/
-│   │   └── style.css
-│   └── js/
-│       └── script.js
-│
-├── data/
-│   └── inventory.csv
-│
-└── models/
-    └── model.pkl
+The dashboard provides:
+
+⭐Total products
+
+⭐Available stock
+
+⭐Low-stock products
+
+⭐Overstocked products
+
+⭐Predicted demand
+
+⭐Recommended reorder quantity
+
+⭐Inventory charts and trends
+
+⭐AI-assisted inventory insights
 
 ⚫TECHNOLOGIES USED:
  
