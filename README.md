@@ -133,22 +133,32 @@ End
 
 🛠️ TECHNOLOGIES USED:
  
-⭐Front-end 
+⭐Front-end
+ 
 •HTML5
+
 •CSS3
+
 •JavaScript
+
 •Bootstrap
 
 ⭐AI / Data Analysis
+
 •JavaScript-based AI-assisted analysis
+
 •Inventory data processing
+
 •Rule/logic-based decision support
 
 ⭐Data Visualization
+
 •Chart.js
 
 ⭐Data
+
 •JavaScript data objects
+
 •JSON supplier data
 
 ---
