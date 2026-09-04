@@ -3,6 +3,7 @@
 ---
 
 📌 Project Overview
+
 -The AI-Assisted Inventory Decision Support Dashboard for Small Businesses is a web-based decision support system designed to help small businesses monitor and analyse their inventory more effectively.
 
 -The system provides inventory information, stock-level analysis, AI-assisted insights, reorder recommendations, demand-related analysis, and supplier risk information through an easy-to-use dashboard.
