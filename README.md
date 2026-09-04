@@ -2,7 +2,7 @@
 
 ---
 
-🎯 Objectives
+🎯 OBJECTIVES: 
 
 - 📦 Monitor inventory levels efficiently
 - 🤖 Analyse inventory data using AI-assisted techniques
@@ -17,7 +17,7 @@
 
 ---
 
-✨ Key Features
+✨ KEY FEATURES:
 
 1. 📦 Inventory Management
 
@@ -68,7 +68,7 @@ The system converts inventory information into actionable recommendations to hel
 
 ---
 
-🏗️ System Architecture
+🏗️ SYSTEM ARCHITECTURE:
 
                  Inventory Data
                        │
@@ -95,7 +95,7 @@ The system converts inventory information into actionable recommendations to hel
 
 ---
 
-🔄 Project Workflow
+🔄 PROJECT WORKFLOW:
 
 Data Collection
        ⬇️
@@ -115,7 +115,7 @@ Dashboard Visualization
 
 ---
 
-🧩 Project Modules
+🧩 PROJECT MODULES:
 
 Module| Description
 Inventory Management| Manages and monitors inventory information
@@ -127,7 +127,7 @@ Decision Support| Provides actionable inventory insights
 
 ---
 
-📁 Project Structure
+📁 PROJECT STRUCTURE:
 
 AI-ASSISTED-INVENTORY-DECISION-SUPPORT-DASHBOARD-FOR-SMALL-BUSINESSES/
 │
@@ -143,7 +143,7 @@ AI-ASSISTED-INVENTORY-DECISION-SUPPORT-DASHBOARD-FOR-SMALL-BUSINESSES/
 
 ---
 
-📊 Expected Output
+📊 EXPECTED OUTPUT:
 
 The dashboard provides information such as:
 
@@ -159,7 +159,7 @@ The dashboard provides information such as:
 
 ---
 
-👥 Target Users
+👥 TARGET USERS:
 
 This project is primarily designed for:
 
@@ -172,7 +172,7 @@ This project is primarily designed for:
 
 ---
 
-💡 Benefits
+💡 BENEFITS:
 
 The proposed system can help businesses:
 
@@ -188,7 +188,7 @@ The proposed system can help businesses:
 
 ---
 
-📜 License
+📜 LICENSE:
 
 This project is developed for educational and academic purposes.
 
