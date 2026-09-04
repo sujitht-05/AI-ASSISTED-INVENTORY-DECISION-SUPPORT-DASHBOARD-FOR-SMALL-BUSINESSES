@@ -105,7 +105,8 @@ The system converts inventory information into actionable recommendations to hel
 
 ---
 
-🔄 System Workflow
+🔄 SYSTEM WORKFLOW:
+ 
 Start
   ↓
 Load Inventory & Supplier Data
@@ -155,15 +156,23 @@ End
 🚀 HOW TO RUN THE PROJECT:
 
 Method 1: Open Directly
+
 •Download or clone the repository.
+
 •Open the project folder.
+
 •Open index.html in a modern web browser.
 
 Method 2: Using VS Code
+
 •Open the project folder in Visual Studio Code.
+
 •Install the Live Server extension.
+
 •Right-click index.html.
+
 •Select Open with Live Server.
+
 •The dashboard will open in your browser.
 
 ---
