@@ -2,6 +2,15 @@
 
 ---
 
+📌 Project Overview
+-The AI-Assisted Inventory Decision Support Dashboard for Small Businesses is a web-based decision support system designed to help small businesses monitor and analyse their inventory more effectively.
+
+-The system provides inventory information, stock-level analysis, AI-assisted insights, reorder recommendations, demand-related analysis, and supplier risk information through an easy-to-use dashboard.
+
+-The main goal is to help small businesses reduce stock shortages, avoid excess inventory, and make better data-driven inventory decisions.
+
+---
+
 🎯 OBJECTIVES: 
 
 - 📦 Monitor inventory levels efficiently
@@ -95,71 +104,66 @@ The system converts inventory information into actionable recommendations to hel
 
 ---
 
-🔄 PROJECT WORKFLOW:
-
-Data Collection
-       ⬇️
-Data Pre-processing
-       ⬇️
-Inventory Analysis
-       ⬇️
-Demand Prediction
-       ⬇️
-Reorder Recommendation
-       ⬇️
-Supplier Risk Analysis
-       ⬇️
-Decision Support
-       ⬇️
-Dashboard Visualization
-
----
-
-🧩 Project Modules
-
-Module
-
-Description
-
-Inventory Management
-
-Manages and monitors inventory information
-
-Demand Prediction
-
-Estimates future product demand
-
-Reorder Recommendation
-
-Suggests when and how much to reorder
-
-Dashboard Visualization
-
-Displays inventory information graphically
-
-Supplier Risk Analysis
-
-Evaluates supplier-related risks
-
-Decision Support
-
-Provides actionable inventory insights
+🔄 System Workflow
+Start
+  ↓
+Load Inventory & Supplier Data
+  ↓
+Process Data
+  ↓
+Analyse Inventory
+  ↓
+Identify Stock Conditions
+  ↓
+AI-Assisted Analysis
+  ↓
+Generate Reorder Recommendations
+  ↓
+Analyse Supplier Risk
+  ↓
+Display Results on Dashboard
+  ↓
+Business Decision
+  ↓
+End
 
 ---
 
-📁 PROJECT STRUCTURE:
+🛠️ TECHNOLOGIES USED:
+ 
+⭐Front-end 
+•HTML5
+•CSS3
+•JavaScript
+•Bootstrap
 
-AI-ASSISTED-INVENTORY-DECISION-SUPPORT-DASHBOARD-FOR-SMALL-BUSINESSES/
-│
-├── index.html
-├── styles.css
-├── app.js
-├── data.js
-├── ai_engine.js
-├── supplier-risk.js
-├── suppliers.json
-├── README.md
-└── project video
+⭐AI / Data Analysis
+•JavaScript-based AI-assisted analysis
+•Inventory data processing
+•Rule/logic-based decision support
+
+⭐Data Visualization
+•Chart.js
+
+⭐Data
+•JavaScript data objects
+•JSON supplier data
+
+---
+
+🚀 HOW TO RUN THE PROJECT:
+
+Method 1: Open Directly
+•Download or clone the repository.
+•Open the project folder.
+•Open index.html in a modern web browser.
+
+Method 2: Using VS Code
+•Open the project folder in Visual Studio Code.
+•Install the Live Server extension.
+•Right-click index.html.
+•Select Open with Live Server.
+•The dashboard will open in your browser.
 
 ---
 
