@@ -98,19 +98,19 @@ The system converts inventory information into actionable recommendations to hel
 🔄 Project Workflow
 
 Data Collection
-       ↓
+       ⬇️
 Data Pre-processing
-       ↓
+       ⬇️
 Inventory Analysis
-       ↓
+       ⬇️
 Demand Prediction
-       ↓
+       ⬇️
 Reorder Recommendation
-       ↓
+       ⬇️
 Supplier Risk Analysis
-       ↓
+       ⬇️
 Decision Support
-       ↓
+       ⬇️
 Dashboard Visualization
 
 ---
