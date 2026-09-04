@@ -115,15 +115,35 @@ Dashboard Visualization
 
 ---
 
-🧩 PROJECT MODULES:
+🧩 Project Modules
 
-Module| Description
-Inventory Management| Manages and monitors inventory information
-Demand Prediction| Estimates future product demand
-Reorder Recommendation| Suggests when and how much to reorder
-Dashboard Visualization| Displays inventory information graphically
-Supplier Risk Analysis| Evaluates supplier-related risks
-Decision Support| Provides actionable inventory insights
+Module
+
+Description
+
+Inventory Management
+
+Manages and monitors inventory information
+
+Demand Prediction
+
+Estimates future product demand
+
+Reorder Recommendation
+
+Suggests when and how much to reorder
+
+Dashboard Visualization
+
+Displays inventory information graphically
+
+Supplier Risk Analysis
+
+Evaluates supplier-related risks
+
+Decision Support
+
+Provides actionable inventory insights
 
 ---
 
