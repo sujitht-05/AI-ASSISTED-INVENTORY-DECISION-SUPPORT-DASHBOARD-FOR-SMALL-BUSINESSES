@@ -2,7 +2,7 @@
 
 ---
 
-📌 PROJECT OVERVIEW:
+# 📌 PROJECT OVERVIEW:
 
 -The AI-Assisted Inventory Decision Support Dashboard for Small Businesses is a web-based decision support system designed to help small businesses monitor and analyse their inventory more effectively.
 
@@ -12,7 +12,7 @@
 
 ---
 
-🎯 OBJECTIVES: 
+# 🎯 OBJECTIVES: 
 
 - 📦 Monitor inventory levels efficiently
 - 🤖 Analyse inventory data using AI-assisted techniques
@@ -27,7 +27,7 @@
 
 ---
 
-✨ KEY FEATURES:
+# ✨ KEY FEATURES:
 
 1. 📦 Inventory Management
 
@@ -78,7 +78,7 @@ The system converts inventory information into actionable recommendations to hel
 
 ---
 
-🏗️ SYSTEM ARCHITECTURE:
+# 🏗️ SYSTEM ARCHITECTURE:
 
                  Inventory Data
                        │
@@ -105,7 +105,7 @@ The system converts inventory information into actionable recommendations to hel
 
 ---
 
-🔄 SYSTEM WORKFLOW:
+# 🔄 SYSTEM WORKFLOW:
  
 Start
   ↓
@@ -131,7 +131,7 @@ End
 
 ---
 
-🛠️ TECHNOLOGIES USED:
+# 🛠️ TECHNOLOGIES USED:
  
 ⭐Front-end
  
@@ -163,7 +163,7 @@ End
 
 ---
 
-🚀 HOW TO RUN THE PROJECT:
+# 🚀 HOW TO RUN THE PROJECT:
 
 Method 1: Open Directly
 
@@ -187,7 +187,7 @@ Method 2: Using VS Code
 
 ---
 
-📊 EXPECTED OUTPUT:
+# 📊 EXPECTED OUTPUT:
 
 The dashboard provides information such as:
 
@@ -203,7 +203,7 @@ The dashboard provides information such as:
 
 ---
 
-👥 TARGET USERS:
+# 👥 TARGET USERS:
 
 This project is primarily designed for:
 
@@ -216,7 +216,7 @@ This project is primarily designed for:
 
 ---
 
-💡 BENEFITS:
+# 💡 BENEFITS:
 
 The proposed system can help businesses:
 
@@ -232,7 +232,7 @@ The proposed system can help businesses:
 
 ---
 
-📜 LICENSE:
+# 📜 LICENSE:
 
 This project is developed for educational and academic purposes.
 
