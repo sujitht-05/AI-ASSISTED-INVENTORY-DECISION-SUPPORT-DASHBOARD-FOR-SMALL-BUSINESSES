@@ -131,6 +131,21 @@ End
 
 ---
 
+# 📁 PROJECT STRUCTURE:
+ 
+AI-ASSISTED-INVENTORY-DECISION-SUPPORT-DASHBOARD-FOR-SMALL-BUSINESSES/
+│
+├── index.html
+├── styles.css
+├── app.js
+├── data.js
+├── ai_engine.js
+├── supplier_risk.js
+├── suppliers.json
+└── README.md
+
+---
+
 # 🛠️ TECHNOLOGIES USED:
  
 ⭐Front-end
