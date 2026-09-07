@@ -29,7 +29,7 @@
 
 # ✨ KEY FEATURES:
 
-1. 📦 Inventory Management
+## 1. 📦 Inventory Management
 
 - Add and manage products
 - Monitor current stock levels
@@ -37,18 +37,18 @@
 - Identify low-stock products
 - Identify overstocked products
 
-2. 🤖 AI-Assisted Demand Prediction
+## 2. 🤖 AI-Assisted Demand Prediction
 
 - Analyse historical inventory/sales information
 - Estimate future product demand
 - Provide inventory-related insights
 - Support better purchasing decisions
 
-3. 🔄 Reorder Recommendation
+## 3. 🔄 Reorder Recommendation
 
 The system helps identify products that require replenishment and provides recommended reorder quantities based on inventory conditions.
 
-4. 🏭 Supplier Risk Analysis
+## 4. 🏭 Supplier Risk Analysis
 
 The dashboard includes a supplier risk analysis module to help identify potential supplier-related issues.
 
@@ -59,7 +59,7 @@ Supplier information can be analysed using factors such as:
 - Risk level
 - Supplier-related inventory impact
 
-5. 📊 Interactive Dashboard
+## 5. 📊 Interactive Dashboard
 
 The dashboard provides visual information such as:
 
@@ -72,7 +72,7 @@ The dashboard provides visual information such as:
 - Inventory trends
 - Supplier risk information
 
-6. 💡 Decision Support
+## 6. 💡 Decision Support
 
 The system converts inventory information into actionable recommendations to help business owners make better purchasing and stocking decisions.
 
@@ -165,7 +165,7 @@ End
 
 # 🚀 HOW TO RUN THE PROJECT:
 
-Method 1: Open Directly
+## Method 1: Open Directly
 
 •Download or clone the repository.
 
@@ -173,7 +173,7 @@ Method 1: Open Directly
 
 •Open index.html in a modern web browser.
 
-Method 2: Using VS Code
+## Method 2: Using VS Code
 
 •Open the project folder in Visual Studio Code.
 
