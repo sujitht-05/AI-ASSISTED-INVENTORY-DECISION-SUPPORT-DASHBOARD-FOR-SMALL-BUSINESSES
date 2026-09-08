@@ -105,8 +105,9 @@ The system converts inventory information into actionable recommendations to hel
 
 ---
 
-# 🔄 SYSTEM WORKFLOW:
- 
+## 🔄 System Workflow
+
+```text
 Start
   ↓
 Load Inventory & Supplier Data
@@ -128,6 +129,7 @@ Display Results on Dashboard
 Business Decision
   ↓
 End
+```
 
 ---
 
