@@ -157,9 +157,10 @@ AI-ASSISTED-INVENTORY-DECISION-SUPPORT-DASHBOARD-FOR-SMALL-BUSINESSES/
 ├── ai_engine.js
 ├── supplier_risk.js
 ├── suppliers.json
-├── README.md
-└── Project Video
+└── README.md
 ```
+
+---
 
 # 🛠️ TECHNOLOGIES USED:
  
