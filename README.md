@@ -131,8 +131,23 @@ End
 
 ---
 
-# 📁 PROJECT STRUCTURE:
- 
+## 🧩 Project Modules
+
+| Module                 | Function                                                |
+| ---------------------- | ------------------------------------------------------- |
+| Inventory Dashboard    | Displays overall inventory information                  |
+| Inventory Analysis     | Analyses product and stock conditions                   |
+| AI Engine              | Provides AI-assisted inventory analysis                 |
+| Demand Analysis        | Supports demand-related inventory planning              |
+| Reorder Recommendation | Identifies products requiring replenishment             |
+| Supplier Risk Analysis | Analyses supplier-related risks                         |
+| Data Visualization     | Presents information through charts and visual elements |
+
+---
+
+## 📁 Project Structure
+
+```text
 AI-ASSISTED-INVENTORY-DECISION-SUPPORT-DASHBOARD-FOR-SMALL-BUSINESSES/
 │
 ├── index.html
@@ -142,9 +157,9 @@ AI-ASSISTED-INVENTORY-DECISION-SUPPORT-DASHBOARD-FOR-SMALL-BUSINESSES/
 ├── ai_engine.js
 ├── supplier_risk.js
 ├── suppliers.json
-└── README.md
-
----
+├── README.md
+└── Project Video
+```
 
 # 🛠️ TECHNOLOGIES USED:
  
