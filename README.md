@@ -10,6 +10,8 @@
 
 -The main goal is to help small businesses reduce stock shortages, avoid excess inventory, and make better data-driven inventory decisions.
 
+vid-20260822-wa0001_fTj8VN6i.mp4
+
 ---
 
 # 🎯 OBJECTIVES: 
